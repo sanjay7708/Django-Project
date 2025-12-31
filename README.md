@@ -80,7 +80,7 @@ Django-Project/
 
 Installation & Setup
   1)Clone the repository
-      git clone https://github.com/your-username/ecommerce-project.git
+      git clone https://github.com/sanjay7708/Django-Project.git
 
   create virtual environment:
       python -m venv venv
